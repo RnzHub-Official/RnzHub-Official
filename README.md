@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👾 Rnz Hub - Official
 
-<!--
-**RnzHub-Official/RnzHub-Official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **"Ele não é arisco e não morde, a menos que você nos siga no YouTube!"**
 
-Here are some ideas to get you started:
+Bem-vindo ao repositório oficial do **Rnz Hub**, o script mais completo para **99 Nights in the Forest**, **Blox Fruits** e **Brookhaven**. Otimizado 100% para utilizadores de **Arceus X** e dispositivos Mobile.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Como Executar
+
+Para usar o Rnz Hub, copie e cole o código abaixo no seu executor (Arceus X):
+
+```lua
+loadstring(game:HttpGet("[https://raw.githubusercontent.com/RnzHub-Official/Rnz-Hub/main/main.lua](https://raw.githubusercontent.com/RnzHub-Official/Rnz-Hub/main/main.lua)"))()
